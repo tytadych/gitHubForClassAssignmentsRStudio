@@ -1,0 +1,4 @@
+"GitHub > add file > upload files" seems the most straightforward
+I think I did end up cloning to my machine which makes me want to utilize "RStudio > Git tab > commit (add commit message) > pull > push" --> Check GitHub to make sure pushed"
+Updated
+same
